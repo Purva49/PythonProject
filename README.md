@@ -12,5 +12,6 @@ This is a simple Python program that collects user information like name, age, a
 ##  How to Run
 1. Install Python
 2. Run the file:
+3. https://pythonproject-qcugpuyupd6ehszjhrbbbh.streamlit.app/
    ```bash
    python personal_intro.py
