@@ -1,17 +1,28 @@
-# Personal Introduction Program 
+# Student Grade Calculator
 
-## Description
-This is a simple Python program that collects user information like name, age, and hobby, and displays a personalized welcome message.
+This is a simple Python project that takes student marks as input and returns the grade with an encouraging message.
 
-##  Features
-- Takes user input
-- Uses variables
-- Uses f-strings for formatting
-- Beginner-friendly
+## Features
+
+- Takes student name and marks
+- Uses if-elif-else grading logic
+- Validates marks between 0 and 100
+- Uses while loop for invalid input
+- Uses function to calculate grade
+- Displays encouraging message
+
+## Grading Logic
+
+| Marks | Grade |
+|------|-------|
+| 90-100 | A |
+| 80-89 | B |
+| 70-79 | C |
+| 60-69 | D |
+| 0-59 | F |
 
 ##  How to Run
 1. Install Python
 2. Run the file:
-3. https://pythonproject-qcugpuyupd6ehszjhrbbbh.streamlit.app/
-   ```bash
-   python personal_intro.py
+3. https://pythonproject-mkakd29coxuzgetnh6zmsf.streamlit.app
+   python grade_calculator.py
