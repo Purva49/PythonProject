@@ -79,7 +79,8 @@ It analyzes student performance based on study hours, attendance, and subject ma
 1. Bar Chart: Average marks by student
 2. Scatter Plot: Study hours vs average marks
 
-## How to Run Locally
-```bash
-pip install -r requirements.txt
+## How to Run 
+1.Install Python
+2.Run the file:
+https://pythonproject-mapzrvqe775kramjoyxnbb.streamlit.app/
 streamlit run DataVisual.py
