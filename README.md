@@ -58,3 +58,28 @@ The application loads sales data from a CSV file, performs analysis, and display
 2. Run the file:
 3. https://pythonproject-alrwkaszazfzyrzyv84zm3.streamlit.app/
    python sales_analysis.py
+
+
+# Student Performance Data Analysis Dashboard
+
+## Project Overview
+This is a complete data science project built using Python and Streamlit.  
+It analyzes student performance based on study hours, attendance, and subject marks.
+
+## Features
+- Load dataset
+- Clean missing values and duplicates
+- Analyze student performance
+- Create visualizations using Matplotlib
+- Show meaningful insights
+- Error handling and validation
+- Streamlit dashboard
+
+## Charts Used
+1. Bar Chart: Average marks by student
+2. Scatter Plot: Study hours vs average marks
+
+## How to Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run DataVisual.py
