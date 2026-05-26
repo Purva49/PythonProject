@@ -84,3 +84,48 @@ It analyzes student performance based on study hours, attendance, and subject ma
 2.Run the file:
 https://pythonproject-mapzrvqe775kramjoyxnbb.streamlit.app/
 streamlit run DataVisual.py
+
+# Customer Sales Analysis Dashboard
+
+## Project Overview
+This is a Data Science project built using Python, Pandas, Matplotlib, and Streamlit.
+
+The project analyzes customer sales data, identifies top customers, studies regional sales performance, finds best-selling products, and creates a professional dashboard.
+
+## Technical Requirements Completed
+- Used Pandas for data manipulation
+- Loaded and explored datasets
+- Cleaned missing values and duplicates
+- Implemented data merging/joining
+- Created calculated columns
+- Used 3+ aggregations
+- Used pivot table for summarization
+- Created professional visualizations
+- Built Streamlit dashboard
+- Added business insights and recommendations
+
+## Dataset Files
+- `sales_data.csv`
+- `customer_data.csv`
+
+## Features
+- Total revenue calculation
+- Total customers count
+- Average order value
+- Top customer analysis
+- Revenue by customer
+- Revenue by product
+- Revenue by region
+- Pivot table summary
+- Business recommendations
+
+## Visualizations
+1. Bar Chart - Revenue by Region
+2. Pie Chart - Product-wise Sales
+3. Line Chart - Monthly Sales Trend
+4. Bar Chart - Category-wise Sales
+
+## How to Run 
+Run the file:
+https://pythonproject-dpzl2dpzjjdzcx88hhqnbz.streamlit.app/
+streamlit run CustomerSales.py
