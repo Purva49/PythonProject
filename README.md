@@ -129,3 +129,60 @@ The project analyzes customer sales data, identifies top customers, studies regi
 Run the file:
 https://pythonproject-dpzl2dpzjjdzcx88hhqnbz.streamlit.app/
 streamlit run CustomerSales.py
+
+
+# 📊 Advanced Sales Visualization Dashboard
+
+## Project Overview
+This project is an advanced Data Science and Data Visualization dashboard built using:
+
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Plotly
+- Streamlit
+
+The dashboard analyzes customer sales data and provides statistical visualizations, interactive charts, and business insights.
+
+---
+
+# 🎯 Project Objectives
+
+- Analyze customer sales performance
+- Create statistical visualizations using Seaborn
+- Build interactive dashboards using Plotly
+- Perform data cleaning and preprocessing
+- Create professional business insights
+- Develop an interactive Streamlit dashboard
+
+---
+
+# 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Python | Programming Language |
+| Pandas | Data Manipulation |
+| Seaborn | Statistical Visualization |
+| Matplotlib | Plotting |
+| Plotly | Interactive Charts |
+| Streamlit | Dashboard Deployment |
+
+---
+
+# 📂 Project Structure
+
+```text
+AdvancedSalesDashboard/
+│── AdvancedSalesDashboard.py
+│── sales_data.csv
+│── customer_data.csv
+│── requirements.txt
+│── README.md
+
+## How to Run 
+1.Install Python
+2.Run the file:
+https://pythonproject-kgpbtn74bzikdsf9c6enk3.streamlit.app/
+streamlit run AdvancedSalsesDashboard.py
