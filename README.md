@@ -188,7 +188,7 @@ https://pythonproject-kgpbtn74bzikdsf9c6enk3.streamlit.app/
 streamlit run AdvancedSalsesDashboard.py
 
 
-**# 📊 Statistical Business Analysis Dashboard**
+# Statistical Business Analysis Dashboard
 
 ## Project Overview
 
