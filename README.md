@@ -33,7 +33,6 @@ This project analyzes sales data using Python, Pandas, and Streamlit.
 
 The application loads sales data from a CSV file, performs analysis, and displays useful business insights like total revenue, best-selling product, average sales, highest sale, and lowest sale.
 
----
 
 # 🚀 Features
 
@@ -45,7 +44,6 @@ The application loads sales data from a CSV file, performs analysis, and display
 - Show highest and lowest sales
 - Interactive Streamlit web interface
 
----
 
 # 🛠️ Technologies Used
 
@@ -145,7 +143,6 @@ This project is an advanced Data Science and Data Visualization dashboard built 
 
 The dashboard analyzes customer sales data and provides statistical visualizations, interactive charts, and business insights.
 
----
 
 # 🎯 Project Objectives
 
@@ -156,7 +153,6 @@ The dashboard analyzes customer sales data and provides statistical visualizatio
 - Create professional business insights
 - Develop an interactive Streamlit dashboard
 
----
 
 # 🛠️ Technologies Used
 
@@ -169,7 +165,6 @@ The dashboard analyzes customer sales data and provides statistical visualizatio
 | Plotly | Interactive Charts |
 | Streamlit | Dashboard Deployment |
 
----
 
 # 📂 Project Structure
 
@@ -190,13 +185,12 @@ streamlit run AdvancedSalsesDashboard.py
 
 
 # Statistical Business Analysis Dashboard
+
 ## Project Overview
 
 This project performs statistical analysis on sales data using Python, Pandas, SciPy, StatsModels, Seaborn, and Streamlit.
 
 The dashboard helps businesses understand sales performance, marketing effectiveness, correlations, confidence intervals, and statistical significance through hypothesis testing and regression analysis.
-
-
 
 ## 🎯 Objectives
 
