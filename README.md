@@ -186,3 +186,140 @@ AdvancedSalesDashboard/
 2.Run the file:
 https://pythonproject-kgpbtn74bzikdsf9c6enk3.streamlit.app/
 streamlit run AdvancedSalsesDashboard.py
+
+
+**# 📊 Statistical Business Analysis Dashboard**
+
+## Project Overview
+
+This project performs statistical analysis on sales data using Python, Pandas, SciPy, StatsModels, Seaborn, and Streamlit.
+
+The dashboard helps businesses understand sales performance, marketing effectiveness, correlations, confidence intervals, and statistical significance through hypothesis testing and regression analysis.
+
+---
+
+## 🎯 Objectives
+
+- Calculate descriptive statistics
+- Analyze data distribution
+- Perform correlation analysis
+- Conduct hypothesis testing
+- Calculate confidence intervals
+- Perform regression analysis
+- Generate business insights and recommendations
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- SciPy
+- StatsModels
+- Seaborn
+- Matplotlib
+- Streamlit
+
+---
+
+## 📂 Project Structure
+
+```text
+StatisticalBusinessAnalysis/
+│
+├── StatisticalBusinessAnalysis.py
+├── sales_data.csv
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## 📈 Features
+
+### Descriptive Statistics
+- Mean
+- Median
+- Mode
+- Standard Deviation
+
+### Distribution Analysis
+- Histogram
+- KDE Plot
+- Normality Test (Shapiro-Wilk)
+
+### Correlation Analysis
+- Pearson Correlation
+- Correlation Heatmap
+
+### Hypothesis Testing
+- One Sample T-Test
+- Independent T-Test
+- ANOVA Test
+
+### Confidence Interval
+- 95% Confidence Interval
+- Margin of Error
+
+### Regression Analysis
+- Linear Regression
+- R-Squared Value
+- Regression Plot
+
+### Business Insights
+- Marketing effectiveness
+- Revenue forecasting
+- Sales trend analysis
+
+---
+
+## 📊 Dashboard Outputs
+
+### Statistical Summary
+- Average Sales
+- Median Sales
+- Standard Deviation
+
+### Correlation Analysis
+- Marketing Spend vs Sales Correlation
+
+### Hypothesis Testing Results
+- T-Test Results
+- ANOVA Results
+- Statistical Significance
+
+### Regression Analysis
+- R² Score
+- Marketing Impact Analysis
+
+---
+
+## 📦 Requirements
+
+Create a file named `requirements.txt`:
+
+```txt
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+```
+
+---
+
+## ▶️ How to Run the Project
+
+1.Install Python
+2.Run the file:
+https://pythonproject-gyi3qegr8syexb3stztxhl.streamlit.app/
+streamlit run StatisticalBusinessAnalysis.py
+
+
+
+
+
+
