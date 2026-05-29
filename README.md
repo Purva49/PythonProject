@@ -196,7 +196,7 @@ This project performs statistical analysis on sales data using Python, Pandas, S
 
 The dashboard helps businesses understand sales performance, marketing effectiveness, correlations, confidence intervals, and statistical significance through hypothesis testing and regression analysis.
 
----
+
 
 ## 🎯 Objectives
 
@@ -207,8 +207,6 @@ The dashboard helps businesses understand sales performance, marketing effective
 - Calculate confidence intervals
 - Perform regression analysis
 - Generate business insights and recommendations
-
----
 
 ## 🛠 Technologies Used
 
@@ -221,20 +219,14 @@ The dashboard helps businesses understand sales performance, marketing effective
 - Matplotlib
 - Streamlit
 
----
-
 ## 📂 Project Structure
 
-```text
 StatisticalBusinessAnalysis/
 │
 ├── StatisticalBusinessAnalysis.py
 ├── sales_data.csv
 ├── requirements.txt
 └── README.md
-```
-
----
 
 ## 📈 Features
 
@@ -272,8 +264,6 @@ StatisticalBusinessAnalysis/
 - Revenue forecasting
 - Sales trend analysis
 
----
-
 ## 📊 Dashboard Outputs
 
 ### Statistical Summary
@@ -293,13 +283,11 @@ StatisticalBusinessAnalysis/
 - R² Score
 - Marketing Impact Analysis
 
----
 
 ## 📦 Requirements
 
 Create a file named `requirements.txt`:
 
-```txt
 streamlit
 pandas
 numpy
@@ -307,9 +295,6 @@ matplotlib
 seaborn
 scipy
 statsmodels
-```
-
----
 
 ## ▶️ How to Run the Project
 
